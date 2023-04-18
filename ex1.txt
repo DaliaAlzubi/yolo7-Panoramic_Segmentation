@@ -1,0 +1,5 @@
+python segment/train.py --weights /home/dalia/Desktop/yolo7-seg/yolo7-panoramic/yolov7-seg.pt --data data/custom.yaml --freez 15 --epochs 15 --cfg /home/dalia/Desktop/yolo7-seg/yolo7-panoramic/models/segment/yolov7-seg.yaml --batch-size 16
+
+python segment/val.py --data data/custom.yaml --weights /home/dalia/Desktop/yolo7-seg/yolo7-panoramic/runs/train-seg/exp1-compare-with-yolo8/weights/best.pt --name exp1-compare-with-yolo8-val
+
+train-seg/exp13

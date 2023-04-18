@@ -1,0 +1,6 @@
+train: "/home/dalia/Downloads/dataset-yolo7-20230319T193258Z-001/dataset-yolo7/ss-1/train/"
+val: "/home/dalia/Downloads/dataset-yolo7-20230319T193258Z-001/dataset-yolo7/ss-1/valid/"
+
+
+nc: 5
+names: ['Caries', 'Crown', 'Filling', 'Implant', 'Root canal obturation']
