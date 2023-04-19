@@ -9,12 +9,12 @@ This is the the precision-recall curve for the five different classes.
 
 ALso this is some sample segmented images from the test data:
 
+![iScreen Shoter - Google Chrome - 230419002611](https://user-images.githubusercontent.com/86482704/232967046-0c1473ba-6455-4af5-a31a-3b82cd84373b.jpg)
 
-![b7bff19a-Ghadimi_Zahra_58yo_09062021_090158_jpg rf 056415b3c896727ac85e38af8794a27b](https://user-images.githubusercontent.com/127892363/225751824-cc4d0166-29fc-4677-8be8-7d3823a1297b.jpg)
+![iScreen Shoter - Google Chrome - 230419002643](https://user-images.githubusercontent.com/86482704/232967074-3765704c-f303-43bf-a4c3-2d4391f29a62.jpg)
 
-![4150300000-jpg_png_jpg rf a8acf0a354c34ad8545086250e7e2148](https://user-images.githubusercontent.com/127892363/225751856-b4ba2f7e-0830-4d02-ace4-4cebb455427b.jpg)
+![iScreen Shoter - Google Chrome - 230419002611](https://user-images.githubusercontent.com/86482704/232967095-42d17ec4-f546-4e25-8a4c-53438a7506df.jpg)
 
-![d7b31d77-Jafari_Ahmad_36yo_01062021_102902_jpg rf b48fd60c1e327420d21bbcfaf24a3e9e](https://user-images.githubusercontent.com/127892363/225751884-b2c591b4-b82c-4ae2-b9f7-c79283f769d8.jpg)
 
 
 ---------------------------------------------------------------------------------------------
